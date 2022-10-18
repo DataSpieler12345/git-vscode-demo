@@ -2,4 +2,4 @@
 
 Aprendiendo a manejar la consola git bash desde visual studio code
 
--Segundo commit
+- Segundo commit
