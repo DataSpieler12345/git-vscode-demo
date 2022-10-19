@@ -1,1 +1,1 @@
-print("Learning git in VSC")
+print("Learning git in VSCode")
